@@ -1,0 +1,40 @@
+C:\Users\victoria garcia hern\Documents\operaciones aritmeticas\leds para la casa\leds para la casa\bin\Debug\leds para la casa.exe.config
+C:\Users\victoria garcia hern\Documents\visual studio\operaciones aritmeticas\leds para la casa\leds para la casa\bin\Debug\leds para la casa.exe.config
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\bin\Debug\leds para la casa.exe.config
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\obj\Debug\leds para la casa.exe
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\obj\Debug\leds para la casa.xml
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\obj\Debug\leds para la casa.pdb
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\bin\Debug\leds para la casa.exe
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\bin\Debug\leds para la casa.pdb
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\bin\Debug\leds para la casa.xml
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\obj\Debug\leds_para_la_casa.Form1.resources
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\obj\Debug\leds_para_la_casa.Resources.resources
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\obj\Debug\leds para la casa.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\obj\Debug\leds para la casa.vbproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\leds para la casa\leds para la casa\obj\Debug\leds para la casa.vbproj.CoreCompileInputs.cache
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\leds para la casa.exe.config
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\leds para la casa.exe
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\leds para la casa.pdb
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\leds para la casa.xml
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds para la casa.vbproj.AssemblyReference.cache
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds para la casa.exe.config
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds_para_la_casa.Form1.resources
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds_para_la_casa.Resources.resources
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds para la casa.vbproj.GenerateResource.cache
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds para la casa.vbproj.CoreCompileInputs.cache
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds para la casa.exe
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds para la casa.xml
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds para la casa.pdb
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\Firebase.dll
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\LiteDB.dll
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\Newtonsoft.Json.dll
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\System.Reactive.dll
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\Firebase.xml
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\LiteDB.xml
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\Newtonsoft.Json.xml
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\System.Reactive.xml
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Arduino\CASA INTELIGENTE\CASA INTELIGENTE\leds para la casa\obj\Debug\leds par.C95C0953.Up2Date
